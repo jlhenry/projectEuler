@@ -1,4 +1,4 @@
-#pskept's prime number library
+#jlhenry's prime number library
 
 import math
 
